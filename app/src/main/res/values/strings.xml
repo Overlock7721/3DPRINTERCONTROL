@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">3DPRINTERCONTROL</string>
+    <string name="app_name">CCOVER 3D Control</string>
+    <string name="auth_title">Вход в систему</string>
+    <string name="server_ip">IP-адрес сервера</string>
+    <string name="api_key">API-ключ</string>
+    <string name="auth_error">Введите корректные данные</string>
+    <string name="login">Войти</string>
+    <string name="bed_temp">Температура стола</string>
+    <string name="nozzle_temp">Температура сопла</string>
+    <string name="print_time">Время печати: %1$s</string>
+    <string name="print_status">Статус: %1$s</string>
+    <string name="emergency_stop">Экстренная остановка</string>
+    <string name="settings">Настройки</string>
+    <string name="no_data">Нет данных</string>
+    <string name="add_printer">Добавить принтер</string>
+    <string name="select_printer">Выберите принтер:</string>
 </resources>
